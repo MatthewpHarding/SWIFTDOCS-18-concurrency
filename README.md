@@ -1,2 +1,38 @@
-# SWIFTDOCS-18-concurrency
-Swift documentation → Swift has built-in support for writing asynchronous and parallel code in a structured way. Asynchronous code can be suspended and resumed later, although only one piece of the program executes at a time. Suspending and resuming code in your program lets it continue to make progress on short-term operations like updating its UI while continuing to work on long-running operations like fetching data over the network or parsing files.
+![Swift](swift-logo.png)
+
+Swift v5.7 | [different versions](find-my-swift-version.md) | [Swift.org](https://docs.swift.org) 
+
+Taken from the [official Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
+
+✔️ Editable Swift Xcode .playground files included.
+
+```Swift
+// 🚧👷👷👷🏿‍♀️🚧
+// This page is under construction
+// 🤔💭 Is it a page? Or is it a service? 😊
+```
+## The End
+Taken from **official Swift** documentation found [here ](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
+
+- 🔍 We made the **official Swift documentation** [searchable](https://github.com/MatthewpHarding?tab=repositories). 
+
+- 🕊 All official documentation begins with `SWIFTDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS).
+
+- 🕊 All simplified documentation begins with `SIMPLDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SIMPLDOCS).
+
+- Try our free mini-course:
+👉 [A Guided Tour of Swift](https://github.com/MatthewpHarding/a-tour-of-swift) 
+
+# 🤷🏼‍♂️
+
+
+
+@[MatthewpHarding](https://github.com/MatthewpHarding) 🔗
+
+
+Teaching the `Swift` programming language.
+
+```Swift
+let myLife = [learning, coding, happiness] 
+```
+### 🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️
