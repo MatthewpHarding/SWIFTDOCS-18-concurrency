@@ -11,8 +11,12 @@ The code attached is page 9 of [The official Swift Language Guide](https://docs.
 
 ```Swift
 // 🚧👷👷👷🏿‍♀️🚧
-// This page is under construction
-// 🤔💭 Is it a page? Or is it a service? 😊
+
+// This page is under construction.
+
+// Please check back later when this README file has been completed.
+
+// The Swift playground file is complete and ready to clone / download.
 ```
 -------------------
 
